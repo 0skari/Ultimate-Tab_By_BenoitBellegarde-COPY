@@ -1,6 +1,6 @@
 # ***THIS IS A COPY OF THE ULTIMATE-TAB REPOSITORY (as of 31.1.2025) BY [Benoit Bellegarde](https://github.com/BenoitBellegarde/). THE [ORIGINAL GITHUB REPO](https://github.com/BenoitBellegarde/UltimateTab) HAS BEEN TAKEN DOWN (presumably due to scraping issues with ultimate-guitar.com). I DO NOT OWN THE CODE IN THIS REPOSITORY, AND I DO NOT GIVE ANYONE CONSENT TO DOWNLOAD OR USE THE CODE. ANY ACTIVITY, INCLUDING USAGE, RUNNING, OR DOWNLOADING OF THE CODE IN THIS REPOSITORY, IS AT YOUR OWN RISK.***
 
-Please do not get me or yourself into trouble. If Mr. Bellegarde has any objections to me republishing this repository, please contact me directly or open a new [issue](https://github.com/0skari/Ultimate-Tab_By_BenoitBellegarde-COPY/issues). I hope the original Ultimate-Tab site will be up and running again soon. The original repo operates under the [MIT License](https://opensource.org/licenses/MIT).
+Please do not get me or yourself into trouble. If Mr. Bellegarde has any objections to me republishing this repository, please contact me directly or open a new [issue](https://github.com/0skari/Ultimate-Tab_By_BenoitBellegarde-COPY/issues). If Ultimate Guitar has any objections to me republishing this repository, I, in fact, probably won't give a fuck. I hope the original Ultimate-Tab site will be up and running again soon. The original repo operates under the [MIT License](https://opensource.org/licenses/MIT).
 
 
 
